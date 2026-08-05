@@ -1,3 +1,5 @@
+mod primitive_data_types;
+
 fn main() {
-    println!("Hello, from 🦀 !");
+    primitive_data_types::prim_types();
 }
