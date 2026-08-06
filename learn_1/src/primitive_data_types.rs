@@ -16,4 +16,8 @@ pub fn prim_types(){
     // Boolean
     let is_snowing:bool = true;
     println!("Is it snowing?: {}", is_snowing);
+    
+    // Charter tyoe
+    let letter: char = 'a';
+    println!("First letter of the alphabet is: {}", letter)
 }
